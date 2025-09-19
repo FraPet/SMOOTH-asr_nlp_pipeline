@@ -1,0 +1,122 @@
+*PAR:	un/ART nest/NOME full/AGG of/PREP eggs/NOME
+*PAR:	by/X priscilla/NOME jenkins/NOME
+*PAR:	illustrated/NOME by/X lizzie/NOME rockwell/NOME
+*PAR:	let/NOME 's/PART read/NOME and/CONG_E find/NOME out/NOME science/NOME
+*PAR:	stage/NOME 1/NUM
+*PAR:	a/PREP scholastic/NOME incorporated/NOME book/NOME
+*PAR:	listen/NOME
+*PAR:	cheer/NOME up/NOME
+*PAR:	cheer/NOME up/NOME
+*PAR:	cheer/NOME up/NOME
+*PAR:	that/NOME is/VERBO a/PREP song/NOME of/PREP a/PREP robin/NOME
+*PAR:	it/X must/X be/X spring/NOME
+*PAR:	up/X in/X a/PREP tree/X outside/X my/X window/NOME
+*PAR:	a/PREP pair/AGG of/PREP american/NOME robins/NOME are/PREP very/X busy/NOME
+*PAR:	they'/ART re/NOME gathering/NOME dry/X weeds/NOME and/CONG_E twigs/VERBO
+*PAR:	they/NOME work/NOME carefully/NOME but/AGG quickly/NOME
+*PAR:	it/X is/VERBO almost/AGG time/NOME
+*PAR:	the/ART female/AGG weaves/NOME the/X weeds/NOME and/CONG_E twigs/AGG together/X with/X bits/NOME of/PREP mud/NOME that/X dry/X light/AGG glue/NOME
+*PAR:	she/NOME adds/AGG more/NOME mud/NOME pressing/NOME it/X with/X her/X breast/X into/X a/PREP cup/NOME shape/NOME
+*PAR:	then/NOME she/X lines/X the/X bottom/X of/PREP the/ART cup/X with/X a/PREP bed/NOME of/PREP soft/AGG grasses/NOME
+*PAR:	there/NOME the/ART nest/NOME is/VERBO strong/NOME
+*PAR:	safe/NOME and/CONG_E snug/NOME
+*PAR:	now/NOME it/X is/VERBO ready/NOME
+*PAR:	over/X the/X next/NOME few/X days/NOME the/ART female/AGG robin/NOME lays/NOME four/X beautiful/AGG blue/NOME eggs/NOME in/PREP the/ART nest/NOME
+*PAR:	she/NOME is/NOME sitting/NOME on/NOME the/X nest/NOME now/NOME
+*PAR:	keeping/NOME the/ART eggs/NOME warm/NOME
+*PAR:	her/NOME mate/NOME is/VERBO close/NOME by/NOME
+*PAR:	he/X sings/NOME loudly/NOME
+*PAR:	warning/X other/X robins/X to/X stay/X away/X
+*PAR:	inside/NOME each/X egg/NOME is/VERBO a/PREP tiny/X new/NOME life/X
+*PAR:	it/X is/VERBO growing/AGG very/AGG fast/AGG
+*PAR:	the/ART yellow/AGG yoke/NOME is/VERBO its/X liquid/NOME food/NOME
+*PAR:	the/ART clear/NOME albumin/NOME
+*PAR:	which/NOME we/X call/X the/X white/X of/PREP an/X egg/NOME
+*PAR:	is/VERBO its/AGG watery/NOME cushion/NOME
+*PAR:	day/NOME after/X day/X the/X mother/X robins/NOME sits/NOME on/X the/ART eggs/NOME patiently/NOME waiting/X
+*PAR:	it/X must/X be/X nice/NOME and/CONG_E warm/NOME in/PREP there/AGG
+*PAR:	that/NOME white/X spot/NOME in/PREP the/ART middle/NOME is/VERBO the/ART beginning/X of/X life/X
+*PAR:	after/X three/AGG days/NOME the/ART life/X begins/X to/X look/X like/X a/PREP head/NOME
+*PAR:	a/PREP backbone/NOME
+*PAR:	a/PREP heart/X
+*PAR:	and/CONG_E eyes/NOME
+*PAR:	already/AVV the/X heart/NOME is/NOME beating/NOME
+*PAR:	after/X five/X days/NOME a/PREP beak/NOME
+*PAR:	two/X wings/NOME
+*PAR:	two/X legs/NOME
+*PAR:	and/CONG_E a/PREP tail/NOME are/X taken/NOME shape/NOME
+*PAR:	it/X is/VERBO the/ART beginning/X to/X look/X like/X a/PREP baby/NOME bird/NOME in/PREP there/AGG
+*PAR:	after/NOME about/X eight/NOME days/NOME the/ART robin/NOME is/VERBO completely/NOME formed/X right/AGG down/X to/X its/X toes/X
+*PAR:	by/PREP the/ART twelfth/NOME day/NOME the/X robin/NOME has/PREP grown/NOME so/VERBO big/NOME it/X is/VERBO squeezed/NOME inside/AGG the/ART egg/NOME
+*PAR:	it/X has/PREP used/X up/NOME all/PREP the/ART food/NOME and/CONG_E space/NOME
+*PAR:	listen/NOME
+*PAR:	pepe/NOME pepe/AGG pepe/NOME pepe/NOME
+*PAR:	a/PREP tiny/NOME beak/NOME is/NOME breaking/NOME through/X an/X egg/NOME shell/NOME
+*PAR:	the/ART eggs/NOME are/PREP hatching/NOME
+*PAR:	crack/NOME
+*PAR:	outrolls/NOME a/PREP baby/NOME robin/NOME
+*PAR:	soon/NOME there/AGG are/PREP four/NOME wobbly/NOME little/NOME robins/NOME in/PREP the/ART nest/NOME
+*PAR:	their/NOME parents/AGG feed/NOME them/NOME worms/NOME
+*PAR:	berries/NOME
+*PAR:	seeds/NOME
+*PAR:	and/CONG_E insects/NOME
+*PAR:	but/VERBO the/ART hungry/NOME nestlings/NOME are/PREP always/NOME pepe/NOME
+*PAR:	ninch/NOME
+*PAR:	quacking/NOME for/PREP more/NOME food/NOME
+*PAR:	good/NOME morning/NOME everyone/NOME
+*PAR:	in/PREP a/PREP few/AVV days/NOME the/ART baby/NOME robins/NOME open/NOME their/X eyes/NOME
+*PAR:	soft/NOME warm/NOME down/X feathers/X begin/NOME to/X appear/X on/X their/X bodies/X
+*PAR:	they/NOME bigger/NOME feathers/NOME grow/NOME and/CONG_E cover/X the/X down/X
+*PAR:	they/NOME keep/X the/ART robins/NOME
+*PAR:	and/CONG_E give/AVV them/NOME color/AGG
+*PAR:	and/ART shape/NOME
+*PAR:	about/NOME 14/NUM days/NOME after/X hatching/NOME the/X robins/NOME have/X grown/X their/X wing/NOME and/CONG_E tail/NOME feathers/AGG
+*PAR:	these/NOME are/X their/X flight/NOME feathers/AGG
+*PAR:	the/ART feathers/NOME that/X will/X use/X to/X fly/X
+*PAR:	feathers/NOME are/X light/AGG but/NOME very/X strong/NOME
+*PAR:	they/NOME are/X what/X makes/X birds/NOME so/VERBO different/X from/NOME all/PREP other/X creatures/X on/NOME earth/NOME
+*PAR:	only/NOME birds/NOME have/NOME feathers/X
+*PAR:	feathers/NOME come/AVV in/PREP many/NOME sizes/NOME
+*PAR:	shapes/NOME
+*PAR:	and/CONG_E colors/NOME
+*PAR:	we/X found/NOME these/NOME in/PREP the/ART yard/NOME
+*PAR:	let/NOME 's/PART look/X this/X one/X up/X
+*PAR:	robins/NOME like/X all/PREP birds/NOME take/X good/X care/AGG of/PREP their/X feathers/AGG
+*PAR:	they/NOME comb/NOME them/AGG and/CONG_E straighten/AGG them/X with/X their/X beaks/NOME
+*PAR:	and/ART they/X clean/AGG them/X by/X taking/X bats/X in/PREP water/NOME or/X dust/NOME
+*PAR:	now/X the/X young/X robins/X are/X ready/NOME to/X leave/X their/X nest/NOME but/X they/X are/X not/X but/X flyers/NOME yet/NUM
+*PAR:	they/NOME are/PREP still/NOME learning/NOME for/PREP the/ART next/NOME few/X weeks/NOME their/X parents/X stay/X close/X to/PREP them/X and/CONG_E bring/AGG them/NOME food/NOME
+*PAR:	soon/X the/ART robins/X are/X ready/NOME to/X fly/X and/CONG_E hunt/NOME on/X their/X own/X
+*PAR:	now/X they/X can/X take/X care/AGG of/PREP themselves/NOME
+*PAR:	next/NOME spring/X they/X will/AGG find/NOME mates/NOME and/CONG_E have/NOME nest/NOME of/PREP their/X
+*PAR:	birds/NOME live/AGG all/PREP over/X the/X world/NOME
+*PAR:	there/NOME are/X about/X 9,000/NUM different/NOME kinds/X
+*PAR:	each/X kind/NOME of/PREP bird/NOME makes/NOME a/PREP nest/NOME in/PREP its/NOME own/ART special/AGG way/NOME
+*PAR:	birds/VERBO usually/X hide/X their/X nest/NOME where/X they/X blend/X with/X nature/NOME 's/PART colors/NOME
+*PAR:	a/PREP bird/NOME 's/PART nest/NOME can/NOME be/NOME a/PREP gathering/NOME of/PREP leaves/NOME on/X the/ART floor/X
+*PAR:	a/PREP woven/NOME pouch/X
+*PAR:	a/PREP hole/NOME in/PREP a/PREP tree/NOME
+*PAR:	a/PREP scrape/NOME on/X a/PREP rocky/NOME cliff/NOME top/AGG
+*PAR:	a/PREP gigantic/NOME heap/NOME of/PREP branches/NOME
+*PAR:	a/PREP floating/NOME platform/NOME
+*PAR:	a/PREP woven/NOME cup/NOME of/X plants/X and/CONG_E spider/NOME silk/X
+*PAR:	a/PREP cup/NOME of/PREP mud/NOME
+*PAR:	a/PREP scooped/NOME out/NOME hollow/NOME in/PREP the/ART sand/X
+*PAR:	or/X even/AVV an/X old/X shoe/NOME
+*PAR:	you/X can/NOME help/NOME robins/NOME build/NOME their/X nest/NOME
+*PAR:	in/PREP the/ART spring/NOME leave/X some/X grass/AGG clippings/VERBO and/CONG_E bits/NOME of/PREP yarn/NOME and/CONG_E string/NOME in/PREP your/X yard/NOME
+*PAR:	look/NOME for/PREP robins/NOME picking/AGG them/NOME up/NOME
+*PAR:	watch/NOME where/X they/X go/X
+*PAR:	you/X may/NOME be/X able/X to/PREP find/NOME their/X nest/NOME
+*PAR:	help/AGG the/ART robins/NOME feel/NOME safe/X by/X not/X going/X too/X close/X to/PREP the/ART nest/NOME or/X touching/X it/X
+*PAR:	see/NOME if/X you/X can/NOME tell/X if/PREP the/ART eggs/NOME have/NOME hatched/NOME
+*PAR:	as/X september/X ends/NOME in/PREP late/AGG september/NOME and/CONG_E the/ART days/NOME grow/AGG shorter/X
+*PAR:	the/ART robins/NOME fly/X south/X or/X migrate/AGG
+*PAR:	they/NOME know/X it/X is/AGG time/NOME to/X leave/X
+*PAR:	winter/NOME is/VERBO coming/NOME
+*PAR:	but/VERBO the/ART robins/NOME always/NOME return/NOME
+*PAR:	listen/NOME
+*PAR:	cheer/NOME up/NOME
+*PAR:	cheer/NOME up/NOME
+*PAR:	cheer/NOME up/NOME
+*PAR:	spring/NOME is/VERBO here/X again/X

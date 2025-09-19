@@ -1,0 +1,86 @@
+*PAR:	c'/PRON era/VERBO una/ART volta/NOME un/ART mamino/NOME in/PREP nome/NOME è/VERBO jacomino/NOME che/PRON viveva/VERBO con/PREP la/ART mamma/NOME catevina/AGG in/PREP una/ART fattoria/NOME
+*PAR:	in/PREP due/NUM
+*PAR:	possiamo/VERBO devono/VERBO solo/AVV una/ART mucca/NOME e/CONG_E erano/VERBO così/AVV poveri/AGG che/PREP un/ART giorno/NOME la/ART mamma/NOME di/PREP se/CONG_ALL già/AVV comino/NOME
+*PAR:	porta/VERBO la/ART mucca/NOME mercato/NOME e/CONG_E vendela/NOME
+*PAR:	jacomino/NOME ubidi/AGG strada/NOME facendo/VERBO in/PREP contro/PREP un/ART omino/NOME che/PRON dirisse/VERBO che/CONG_ALL bella/AGG mucca/NOME
+*PAR:	da/PREP la/ART me/NOME e/CONG_E l'/PRON incamio/VERBO prendi/VERBO questi/ANQ 5/NUM fagioli/NOME magici/AGG
+*PAR:	jacomino/NOME non/AVV fecintempari/AUX spondere/VERBO che/PRON si/PRON ritrovò/VERBO in/PREP mani/NOME fagioli/NOME e/CONG_E la/ART mucca/NOME non/AVV c'/PRON era/VERBO più/AVV
+*PAR:	così/AVV torno/VERBO a/PREP casa/NOME senza/PREP soli/AGG e/CONG_E con/PREP solo/AVV 5/NUM fagioli/NOME magici/AGG
+*PAR:	la/ART mamma/NOME rabbiata/AGG lo/PRON mando/VERBO a/PREP +ll'/ART etto/NOME senza/PREP cena/NOME buttando/VERBO fuori/AVV da/PREP +lla/ART finestra/NOME e/CONG_E fagioli/NOME
+*PAR:	il/ART giorno/NOME dopo/AVV quando/CONG_ALL jacomino/NOME si/PRON sveglio/VERBO
+*PAR:	vi/PRON deve/VERBO la/ART finestra/NOME una/ART pianta/NOME di/PREP fagioli/NOME
+*PAR:	halta/VERBO in/PREP curiosito/NOME
+*PAR:	decisa/AGG di/PREP arambicarsi/VERBO
+*PAR:	giunto/NOME in/PREP cima/NOME si/PRON trovo/VERBO davante/VERBO un/ART castello/NOME
+*PAR:	mousa/VERBO la/ART porta/NOME e/CONG_E dune/NOME norme/NOME donna/NOME gli/PRON apprenicendo/VERBO
+*PAR:	va/VERBO attene/VERBO mio/ANQ marito/NOME
+*PAR:	il/ART lorco/NOME e/CONG_E se/CONG_ALL scopre/VERBO che/CONG_ALL sei/AUX salito/VERBO fin/PREP qua/AVV succe/NOME che/PRON era/VERBO di/PREP prenderti/VERBO
+*PAR:	signora/NOME
+*PAR:	io/PRON tanta/ART fame/NOME imploro/AVV jacomino/NOME
+*PAR:	l'/ART orquesa/NOME portò/VERBO in/PREP cucina/NOME e/CONG_E gli/ART dieto/VERBO un/ART po'/NOME di/PREP pane/NOME è/VERBO formaggio/NOME
+*PAR:	mentre/CONG_ALL jacomino/NOME mangiava/VERBO
+*PAR:	si/PRON utirano/VERBO de/PREP +i/ART passi/NOME che/PRON se/CONG_ALL vicinavano/VERBO e/CONG_E una/ART voce/NOME tuonante/AGG che/PRON diceva/VERBO
+*PAR:	cucci/NOME
+*PAR:	usci/NOME
+*PAR:	sendo/VERBO dor/NOME di/PREP cristianoci/NOME che/CONG_ALL sia/VERBO grande/AGG o/CONG_ALL porpicino/AGG
+*PAR:	io/PRON mi/PRON faccio/VERBO un/ART bel/AGG panino/NOME
+*PAR:	la/ART signora/NOME fece/VERBO
+*PAR:	la/PRON scondere/NOME jacomino/NOME ne/PREP forno/NOME e/CONG_E l'/ART orco/NOME si/PRON misa/VERBO contare/VERBO le/ART monete/NOME d'/PREP oro/NOME e/CONG_E mentre/CONG_ALL contava/VERBO
+*PAR:	si/PRON adormento/VERBO
+*PAR:	jacomino/NOME pieno/AGG di/PREP paura/NOME
+*PAR:	usci/NOME de/PREP +l/ART forno/NOME preso/VERBO un/ART saquetto/NOME colmo/AGG di/PREP monete/NOME d'/PREP oro/NOME e/CONG_E scapò/NOME via/AVV
+*PAR:	tornato/VERBO a/PREP casa/NOME raccontò/VERBO a/PREP +lla/ART mamma/NOME tutta/ART la/ART storia/NOME e/CONG_E i/ART due/NUM festeggiarono/VERBO perché/CONG_ALL non/AVV sarebbero/VERBO mai/AVV più/AVV stati/VERBO poveri/AGG
+*PAR:	pultroppo/NOME
+*PAR:	però/CONG_ALL poco/ART tempo/NOME dopo/AVV
+*PAR:	il/ART sol/NOME definirono/VERBO e/CONG_E così/AVV jacomino/NOME si/PRON fece/VERBO coraggio/NOME e/CONG_E decise/VERBO via/NOME rampicassi/NOME
+*PAR:	nuovamente/AVV su/PREP +lla/ART pianta/NOME de/PREP +l/ART fagiollo/NOME
+*PAR:	arrivate/VERBO in/PREP cima/NOME
+*PAR:	vi/AVV de/PREP +ll'/ART orco/NOME e/CONG_E si/PRON nascose/VERBO dietro/PREP un/ART cispuglio/NOME per/PREP spiarlo/VERBO
+*PAR:	e/CONG_E lo/PRON vide/VERBO che/CONG_ALL comandava/VERBO una/ART gallina/NOME
+*PAR:	d'/PREP eponile/NOME tuo/ANQ uova/NOME
+*PAR:	piccolacare/AGG
+*PAR:	la/ART gallina/NOME depose/VERBO nuovò/NOME
+*PAR:	che/PRON pensate/VERBO un/ART po'/AVV era/VERBO tutto/PRON d'/PREP oro/NOME
+*PAR:	preso/VERBO l'/ART uomo/NOME dorato/AGG
+*PAR:	l'/ART orco/NOME si/PRON stese/VERBO su/PREP +l/ART prato/NOME e/CONG_E si/PRON adormento/VERBO
+*PAR:	jacomino/NOME esgui/AGG sciofori/NOME e/CONG_E preso/VERBO è/VERBO la/ART meravigliosa/AGG gallina/NOME
+*PAR:	poi/AVV torno/VERBO a/PREP casa/NOME da/PREP +lla/ART mamma/NOME che/PRON quando/CONG_ALL vi/AVV decchila/VERBO gallina/NOME facceva/VERBO uovadora/NOME e/CONG_E sclamò/NOME
+*PAR:	non/AVV saremo/VERBO mai/AVV più/AVV poveri/AGG
+*PAR:	però/CONG_ALL non/AVV possono/VERBO molto/ART tempo/NOME che/CONG_ALL jacomino/NOME decise/VERBO di/PREP rampicassi/NOME ancora/AVV su/PREP +lla/ART magica/AGG pianta/NOME
+*PAR:	arribato/VERBO a/PREP +l/ART castello/NOME
+*PAR:	entro/PREP e/CONG_E si/PRON nascose/VERBO dentro/PREP una/ART grande/AGG pentola/NOME in/PREP cucina/NOME
+*PAR:	l'/ART orco/NOME rimo/AGG e/CONG_E anmusando/VERBO la/ART ria/NOME urlo/NOME
+*PAR:	cucciucci/NOME
+*PAR:	sendador/NOME di/PREP cristianoci/NOME
+*PAR:	l'/ART orchezza/NOME non/AVV la/ART sicuro/AGG e/CONG_E l'/ART orco/NOME le/PRON ordino/NOME
+*PAR:	mòi/NOME
+*PAR:	portami/VERBO l'/ART arpa/NOME
+*PAR:	le/ART corse/NOME a/PREP prendarla/VERBO e/CONG_E la/PRON poggia/VERBO su/PREP +lla/ART tavola/NOME
+*PAR:	arpa/NOME
+*PAR:	suona/VERBO
+*PAR:	ricomando/VERBO e/CONG_E l'/ART arpa/NOME inizia/VERBO a/PREP sonare/VERBO dolcemente/AVV
+*PAR:	fina/NOME quando/CONG_ALL il/ART suo/ANQ padrone/NOME non/AVV si/PRON adormento/VERBO
+*PAR:	a/PREP questo/ANQ punto/NOME è/VERBO già/AVV comino/VERBO o/CONG_ALL tremante/AGG de/PREP +lla/ART paura/NOME
+*PAR:	seltò/NOME su/PREP +l/ART cavolo/NOME
+*PAR:	simpa/NOME dronide/VERBO l'/ART arpa/NOME e/CONG_E scapovia/AVV
+*PAR:	però/CONG_ALL l'/ART arpa/NOME inizia/VERBO a/PREP bridare/VERBO
+*PAR:	patrone/NOME
+*PAR:	patrone/NOME
+*PAR:	mi/PRON porta/VERBO la/ART via/NOME
+*PAR:	il/ART l'/ART orco/NOME si/PRON sveglio/VERBO
+*PAR:	jacomino/NOME cominciacorrere/AGG e/CONG_E correva/VERBO correva/VERBO più/AVV veloce/AGG de/PREP +l/ART vento/NOME
+*PAR:	se/CONG_ALL agrappol/VERBO tronco/NOME de/PREP +lla/ART grande/AGG pianta/NOME di/PREP faggoli/NOME e/CONG_E arriva/VERBO a/PREP terra/NOME per/PREP primo/AGG
+*PAR:	mala/NOME orco/NOME arrabbiato/AGG correva/VERBO veloce/AGG anche/AVV lui/PRON
+*PAR:	è/AUX stava/VERBO per/PREP arrivare/VERBO a/PREP terra/NOME quando/CONG_ALL jacomino/NOME lo/PRON ha/VERBO la/ART mamma/NOME
+*PAR:	mamma/NOME
+*PAR:	mamma/NOME passa/VERBO nilasha/NOME
+*PAR:	a/PREP pena/NOME le/PRON bemmano/VERBO
+*PAR:	jacomino/NOME colpi/NOME con/PREP forse/AVV il/ART tronco/NOME de/PREP +lla/ART pianta/NOME e/CONG_E riusci/VERBO a/PREP spezzarla/VERBO
+*PAR:	con/PREP un/ART grande/AGG buoato/NOME collarono/VERBO suolo/NOME
+*PAR:	la/ART pianta/NOME è/VERBO l'/ART orco/NOME
+*PAR:	formando/VERBO una/ART buca/NOME talmente/AVV profonda/AGG
+*PAR:	ma/CONG_ALL così/AVV tanto/AVV profonda/AGG che/PRON nessuno/PRON sarebbe/VERBO stato/VERBO più/AVV capace/AGG di/PREP risalirla/VERBO e/CONG_E tornare/VERBO in/PREP dietro/AVV
+*PAR:	la/ART magica/AGG pianta/NOME di/PREP faggoli/NOME non/AVV crebe/VERBO mai/AVV più/AVV ed/CONG_E è/VERBO resto/AGG ormai/AVV
+*PAR:	anche/AVV jacomino/NOME e/CONG_E la/ART sua/ANQ mamma/NOME non/AVV avevano/VERBO più/AVV bisogno/NOME
+*PAR:	perché/CONG_ALL l'/ART arpa/NOME suonava/VERBO meravillosamente/AVV e/CONG_E la/ART gallina/NOME continua/VERBO a/PREP va/AUX fare/VERBO uova/NOME d'/PREP oro/NOME
+*PAR:	così/AVV non/AVV furono/VERBO più/AVV poveri/AGG e/CONG_E vi/PRON sero/VERBO felice/AGG e/CONG_E contenti/AGG
