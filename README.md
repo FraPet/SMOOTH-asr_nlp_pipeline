@@ -16,8 +16,7 @@ The pipeline was developed and applied to narrative discourse data in the above-
 - End-to-end pipeline: **audio → text**
 - Based on [Whisper](https://github.com/openai/whisper) for ASR
 - [spaCy](https://spacy.io/) integration for Part-of-Speech tagging
-- Option to **preserve original labels** or apply translated/custom label sets
-- Ready-to-run **Google Colab notebook** (`notebooks/pipeline_demo.ipynb`)
+- Option to **preserve original labels** (for english) or apply translated/custom label sets (for italian)
 
 ---
 
@@ -32,13 +31,10 @@ pip install -r requirements.txt
 
 Install the spaCy model (example for Italian):
 ```bash
-python -m spacy download it_core_news_sm
+python -m spacy download it_core_news_lg
 ```
 
 ---
-
-## Usage
-You can either run the pipeline via the provided Colab notebook or import the modules directly.
 
 ### Example (Python)
 ```python
@@ -46,10 +42,10 @@ from src import transcription, postprocessing, utils
 from src.config import LANGUAGE
 
 # Load Whisper model
-model = transcription.load_model("base")
+model = transcription.load_model("base") # <-- use "large-v3" to have better output
 
 # Transcribe demo audio
-text, segments = transcription.transcribe_audio(model, "data/example_audio/demo.wav", language=LANGUAGE)
+text, segments = transcription.transcribe_audio(model, "data/example_audio/demo.wav", language=LANGUAGE) # <- remember to change the language setting to switch from italian to english
 
 # Run POS tagging
 tokens = postprocessing.process_text(text)
@@ -76,3 +72,8 @@ If you use this code, please cite the paper once published:
 And also cite the software dependencies:
 - Radford et al., 2022 (Whisper)
 - Honnibal et al., 2020 (spaCy)
+
+## Contact
+
+For technical questions regarding this repository, please contact the script author at:  
+📧 francesco.petriglia@unito.it
